@@ -12,7 +12,7 @@ function Contact() {
   const { t, i18n } = useTranslation();
 
   return (
-    <div className='dark'>
+    <div className=''>
       <div className='bg-[linear-gradient(180.16deg,rgba(17,121,252,0.12)-13.26%,rgba(255,255,255,0)81.35%)] dark:bg-[#2D282A]  '>
         <main className='contain mb-24 dark:text-white'>
           <div className='text flex flex-col justify-center items-center pt-16 pb-24 relative'>

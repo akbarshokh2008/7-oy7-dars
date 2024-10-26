@@ -12,7 +12,7 @@ export default function Header() {
     i18n.changeLanguage(lang);
   }
   return (
-    <div className='dark'>
+    <div className=''>
       <div className='bg-white dark:bg-[#171718] dark:border-b-2  border-gray-500'>
         <header className='contain flex items-center justify-between py-4'>
           <div className='logo  flex  items-center gap-4'>
