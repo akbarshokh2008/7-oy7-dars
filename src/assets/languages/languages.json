@@ -1,0 +1,50 @@
+{
+  "en": {
+    "translation": {
+      "home": "Home",
+      "brave": "Brave",
+      "templates": "Templates",
+      "features": "Features",
+      "pricing": "Pricing",
+      "resources": "Resources",
+      "button": "Start Free Trial",
+      "contact": "Contact Us",
+      "h1": "Say <span style='color: blue;'>Hello!</span> We’re always here to help.",
+      "text": "Interested in learning more about SmartMoving? Give us a call or send an email and one of our team members will be happy to assist you.",
+      "coll": "CALL US",
+      "email": "Email Us",
+      "address": "HEADQUARTERS",
+      "reklama": "Sign up for your free 14 day trial now!",
+      "button2": "Get Started for free",
+      "cart": "Form",
+      "form": "Form",
+      "name": "Full Name",
+      "emailAddres": "Email Address",
+      "submit": "Submit"
+    }
+  },
+  "uz": {
+    "translation": {
+      "home": "Asosiy",
+      "brave": "Jasur",
+      "templates": "Shablonlar",
+      "features": "Xususiyatlari",
+      "pricing": "Narxlash",
+      "resources": "Manbalar",
+      "button": "Bepul Boshlang",
+      "contact": "Aloqa",
+      "h1": "Salom <span style='color: blue;'>Ayting!</span> Biz har doim yordam berish uchun keldik.",
+      "text": "SmartMoving haqida ko'proq bilishga qiziqasizmi? Bizga qo'ng'iroq qiling yoki elektron pochta xabarini yuboring va jamoamiz a'zolaridan biri sizga yordam berishdan xursand bo'ladi.",
+      "coll": "QO'NG'IROQ QILING",
+      "email": "Elektron Pochtamiz",
+      "address": "BOSH QARORGOH",
+      "reklama": "Endi bepul 14 kunlik sinov uchun ro'yxatdan o'ting!",
+      "button2": "Bepul boshlang",
+      "cart": "Forma",
+      "form": "Forma",
+      "name": "To'liq Ism",
+      "emailAddres": "Elektron Pochta",
+      "submit": "Jo'natish"
+    }
+  }
+}
